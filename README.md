@@ -2,32 +2,29 @@
 
 ## Power BI Business Intelligence Project
 
-An interactive Power BI dashboard developed to analyze Indian e-commerce sales performance, profitability, customer behavior, product performance, regional trends, and sales targets.
+An interactive Power BI dashboard developed to analyze Indian e-commerce sales performance, profitability, customer behavior, regional performance, and sales targets.
 
 ---
 
-## 🎯 Project Overview
+## 🎯 Project Objective
 
-This project was developed to provide management with a single, interactive dashboard for monitoring e-commerce business performance.
+The objective of this project was to build a self-service analytics dashboard that enables management to:
 
-The dashboard enables users to analyze:
-
-- Overall sales and profit performance
-- Actual sales vs monthly/regional targets
-- Year-over-Year (YoY) and Quarter-over-Quarter (QoQ) performance
-- Product and category performance
-- Customer purchasing behavior
-- Customer segments
-- Regional and city-level performance
-- Payment method distribution
-- Detailed product and customer information through drill-through analysis
+- Monitor overall sales and profit performance
+- Compare actual sales against monthly and quarterly targets
+- Analyze Year-over-Year (YoY) and Quarter-over-Quarter (QoQ) performance
+- Identify top-performing products and customers
+- Understand customer segments and payment preferences
+- Analyze regional and city-level performance
+- Drill down from summary-level KPIs into product and customer details
+- Filter analysis by region, category, customer segment, and time period
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**
-- **Power Query**
+- **Power Query (M)**
 - **DAX**
 - **Data Modeling**
 - **Star Schema**
