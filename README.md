@@ -189,6 +189,26 @@ The dashboard highlights the Q3 2025 target shortfall and recurring mid-year sal
 - Analyze discount effectiveness
 - Add predictive analytics
 
+## 📁 Project Structure
+
+```text
+India-Ecommerce-Sales-Intelligence-Dashboard/
+│
+├── Data/
+│   ├── Ecommerce_Sales_Data_2024_2025.csv
+│   └── Sales_Target.csv
+│
+├── PowerBI/
+│   └── India_Ecommerce_Sales_Intelligence_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── 1. Executive Summary.jpg
+│   ├── 2. Sales Performance.jpg
+│   ├── 3. Customer Intelligence.jpg
+│   ├── 4. Product Analytics.jpg
+│   └── 5. Regional Analysis.jpg
+│
+└── README.md
 ---
 
 ## 👤 Project
